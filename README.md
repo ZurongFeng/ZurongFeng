@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ZurongFeng
-- 👀 I’m interested in Market Research and Sociology
-- 🌱 I’m currently learning R
-- 💞️ I’m looking to collaborate on no-idea-yet
+- 👀 I’m interested in Market Research, Sociology and language learning. 
+- 🌱 I’m currently learning R and Python
 - 📫 How to reach me ermaqianlian@gamil.com
 
 <!---
